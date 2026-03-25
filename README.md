@@ -38,11 +38,11 @@ The model was evaluated on the HYGD Test Set, achieving clinically significant r
 ### Performance Visualizations
 
 #### 1. ROC Curve & Confusion Matrix
-![ROC Curve](assets/roc_curve.png) *(Ensure you save your ROC plot images in an 'assets' folder)*
+![ROC Curve](roc_curve.png) 
 
 #### 2. Grad-CAM Visualization
 The model consistently focuses on the **Optic Disc**, the critical area for glaucoma diagnosis.
-![GradCAM](assets/grad_cam.png) *(Ensure you save your Grad-CAM images in an 'assets' folder)*
+![GradCAM](grad_cam.png) 
 
 
 ## Dataset Overview (HYGD)
