@@ -42,7 +42,7 @@ The model was evaluated on the HYGD Test Set, achieving clinically significant r
 
 #### 2. Grad-CAM Visualization
 The model consistently focuses on the **Optic Disc**, the critical area for glaucoma diagnosis.
-![GradCAM](assets/gradcam_sample.png) *(Ensure you save your Grad-CAM images in an 'assets' folder)*
+![GradCAM](assets/grad_cam.png) *(Ensure you save your Grad-CAM images in an 'assets' folder)*
 
 
 ## Dataset Overview (HYGD)
