@@ -1,4 +1,4 @@
-# IDSC
+# IDSC 2026
 
 # Glaucoma Detection using Deep Learning (EfficientNet-B0)
 
